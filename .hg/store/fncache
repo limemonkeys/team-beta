@@ -1,0 +1,4 @@
+data/main.cpp.i
+data/Hexi_OLED_SSD1351.lib.i
+data/mbed-os.lib.i
+data/Hexi_KW40Z.lib.i
